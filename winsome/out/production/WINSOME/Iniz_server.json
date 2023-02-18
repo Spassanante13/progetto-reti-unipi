@@ -1,0 +1,11 @@
+{"server_ip":"127.0.0.1",
+"multicast":"239.255.1.3",
+"porta_tcp":"1500",
+"porta_rmi":"1234",
+"porta_udp":"6666",
+"porta_callback":"50000",
+"registry_callback":"2222",
+"minuti_per_backup":"30",
+"minuti_per_ricompensa":"1",
+"file_backup":"src/Winsome.json"
+}

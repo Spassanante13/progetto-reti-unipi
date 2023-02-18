@@ -1,0 +1,8 @@
+{"server_ip":"127.0.0.1",
+"porta_ascolto":"1500",
+"porta_rmi":"1234",
+"porta_callback":"2222",
+"name_callback_object":"Server",
+"rmi_name_object":"Registrazione",
+"multicast_name":"wlan1"
+}

@@ -1,0 +1,311 @@
+{
+  "batteria" : {
+    "username" : "batteria",
+    "password" : "123ciao",
+    "tags" : [ ],
+    "following" : [ "peppe" ],
+    "followers" : [ "luca", "francesco" ],
+    "blog" : [ {
+      "autore" : "batteria",
+      "id" : 679,
+      "titolo" : "ciao",
+      "contenuto" : "ciao",
+      "like" : [ ],
+      "dislike" : [ ],
+      "commenti" : {
+        "batteria" : [ "davvero bello" ]
+      },
+      "iterazioni" : 9
+    }, {
+      "autore" : "batteria",
+      "id" : 4239,
+      "titolo" : "ciao",
+      "contenuto" : "ciao",
+      "like" : [ ],
+      "dislike" : [ ],
+      "commenti" : {
+        "batteria" : [ "davvero bello" ]
+      },
+      "iterazioni" : 8
+    }, {
+      "autore" : "batteria",
+      "id" : 5321,
+      "titolo" : "nuovo telefono",
+      "contenuto" : "davvero molto bello",
+      "like" : [ "luca", "francesco" ],
+      "dislike" : [ ],
+      "commenti" : {
+        "batteria" : [ "davvero bello" ]
+      },
+      "iterazioni" : 11
+    }, {
+      "autore" : "batteria",
+      "id" : 9021,
+      "titolo" : "sono stefano",
+      "contenuto" : "COme va",
+      "like" : [ ],
+      "dislike" : [ ],
+      "commenti" : {
+        "batteria" : [ "davvero bello" ]
+      },
+      "iterazioni" : 6
+    }, {
+      "autore" : "peppe",
+      "id" : 4275,
+      "titolo" : "ciao",
+      "contenuto" : "ciao a tutti",
+      "like" : [ "batteria", "matteo" ],
+      "dislike" : [ ],
+      "commenti" : {
+        "batteria" : [ "davvero bello" ]
+      },
+      "iterazioni" : 3
+    }, {
+      "autore" : "batteria",
+      "id" : 2267,
+      "titolo" : "nuovo",
+      "contenuto" : "nuovo post",
+      "like" : [ ],
+      "dislike" : [ ],
+      "commenti" : {
+        "batteria" : [ "davvero bello" ]
+      },
+      "iterazioni" : 11
+    } ],
+    "feed" : [ {
+      "autore" : "peppe",
+      "id" : 4275,
+      "titolo" : "ciao",
+      "contenuto" : "ciao a tutti",
+      "like" : [ "batteria", "matteo" ],
+      "dislike" : [ ],
+      "commenti" : {
+        "batteria" : [ "davvero bello" ]
+      },
+      "iterazioni" : 1
+    } ],
+    "guadagno" : 6.704358294184333,
+    "transazioni" : [ "Il 2022-01-25 10:08 hai guadagnato: 0.30128468517731943", "Il 2022-01-26 11:06 hai guadagnato: 0.08958797346140275", "Il 2022-01-25 11:27 hai guadagnato: 0.15290189817785663", "Il 2022-01-25 11:28 hai guadagnato: 0.03766058564716493", "Il 2022-01-26 11:06 hai guadagnato: 0.025993019270997952", "Il 2022-01-25 10:08 hai guadagnato: 0.5579590776915689", "Il 2022-01-25 10:23 hai guadagnato: 0.050214114196219906", "Il 2022-01-25 10:13 hai guadagnato: 0.07532117129432986", "Il 2022-01-26 11:06 hai guadagnato: 0.04852030263919617", "Il 2022-01-25 10:12 hai guadagnato: 0.30128468517731943", "Il 2022-01-25 11:27 hai guadagnato: 0.060256937035463885", "Il 2022-01-26 11:06 hai guadagnato: 0.029706307738283366", "Il 2022-01-25 10:07 hai guadagnato: 0.9704060527839233", "Il 2022-01-26 11:06 hai guadagnato: 0.06065037829899521", "Il 2022-01-25 10:17 hai guadagnato: 0.21406265744899927", "Il 2022-01-25 10:23 hai guadagnato: 0.07532117129432986", "Il 2022-01-25 10:13 hai guadagnato: 0.15064234258865972", "Il 2022-01-25 11:29 hai guadagnato: 0.03347607613081327", "Il 2022-01-25 11:28 hai guadagnato: 0.10042822839243981", "Il 2022-01-25 11:29 hai guadagnato: 0.050214114196219906", "Il 2022-01-25 11:29 hai guadagnato: 0.04304066931104563", "Il 2022-01-25 11:28 hai guadagnato: 0.050214114196219906", "Il 2022-01-25 11:29 hai guadagnato: 0.07532117129432986", "Il 2022-01-25 11:28 hai guadagnato: 0.060256937035463885", "Il 2022-01-26 11:06 hai guadagnato: 0.04158883083359671", "Il 2022-01-26 11:06 hai guadagnato: 0.030128468517731943", "Il 2022-01-25 10:23 hai guadagnato: 0.30128468517731943", "Il 2022-01-25 10:23 hai guadagnato: 0.10042822839243981", "Il 2022-01-26 11:06 hai guadagnato: 0.006931471805599452", "Il 2022-01-25 11:27 hai guadagnato: 0.15064234258865972", "Il 2022-01-25 10:12 hai guadagnato: 0.3567710957483321", "Il 2022-01-25 11:27 hai guadagnato: 0.07532117129432986", "Il 2022-01-25 10:12 hai guadagnato: 0.10042822839243981", "Il 2022-01-25 10:17 hai guadagnato: 0.060256937035463885", "Il 2022-01-25 10:23 hai guadagnato: 0.17838554787416605", "Il 2022-01-25 10:08 hai guadagnato: 0.15064234258865972", "Il 2022-01-25 10:13 hai guadagnato: 0.30128468517731943", "Il 2022-01-25 10:17 hai guadagnato: 0.10042822839243981", "Il 2022-01-25 11:27 hai guadagnato: 0.04304066931104563", "Il 2022-01-26 11:06 hai guadagnato: 0.06931471805599453", "Il 2022-01-26 11:06 hai guadagnato: 0.03465735902799727", "Il 2022-01-26 11:06 hai guadagnato: 0.09704060527839234", "Il 2022-01-25 10:17 hai guadagnato: 0.15064234258865972", "Il 2022-01-26 11:06 hai guadagnato: 0.020794415416798356" ],
+    "bitcoin" : 0.17426570992524948
+  },
+  "daniel" : {
+    "username" : "daniel",
+    "password" : "123ciao",
+    "tags" : [ ],
+    "following" : [ ],
+    "followers" : [ ],
+    "blog" : [ ],
+    "feed" : [ ],
+    "guadagno" : 0.0,
+    "transazioni" : [ ],
+    "bitcoin" : 0.0
+  },
+  "matteo" : {
+    "username" : "matteo",
+    "password" : "123ciao",
+    "tags" : [ "sport", "calcio" ],
+    "following" : [ "peppe" ],
+    "followers" : [ "peppe" ],
+    "blog" : [ ],
+    "feed" : [ {
+      "autore" : "peppe",
+      "id" : 4275,
+      "titolo" : "ciao",
+      "contenuto" : "ciao a tutti",
+      "like" : [ "batteria", "matteo" ],
+      "dislike" : [ ],
+      "commenti" : {
+        "batteria" : [ "davvero bello" ]
+      },
+      "iterazioni" : 1
+    } ],
+    "guadagno" : 0.2533673404225369,
+    "transazioni" : [ "Il 2022-01-25 11:29 hai guadagnato: 0.12912200793313688", "Il 2022-01-26 11:06 hai guadagnato: 0.08958797346140275", "Il 2022-01-26 11:06 hai guadagnato: 0.03465735902799727" ],
+    "bitcoin" : 0.0
+  },
+  "antonio" : {
+    "username" : "antonio",
+    "password" : "123ciao",
+    "tags" : [ ],
+    "following" : [ ],
+    "followers" : [ ],
+    "blog" : [ {
+      "autore" : "antonio",
+      "id" : 8413,
+      "titolo" : "ciao",
+      "contenuto" : "ciao",
+      "like" : [ ],
+      "dislike" : [ ],
+      "commenti" : { },
+      "iterazioni" : 7
+    } ],
+    "feed" : [ ],
+    "guadagno" : 0.7381474786844326,
+    "transazioni" : [ "Il 2022-01-25 11:29 hai guadagnato: 0.060256937035463885", "Il 2022-01-25 10:17 hai guadagnato: 0.30128468517731943", "Il 2022-01-25 11:27 hai guadagnato: 0.10042822839243981", "Il 2022-01-26 11:06 hai guadagnato: 0.050214114196219906", "Il 2022-01-25 11:28 hai guadagnato: 0.07532117129432986", "Il 2022-01-25 10:23 hai guadagnato: 0.15064234258865972" ],
+    "bitcoin" : 0.0
+  },
+  "luca" : {
+    "username" : "luca",
+    "password" : "123ciao",
+    "tags" : [ ],
+    "following" : [ "batteria" ],
+    "followers" : [ ],
+    "blog" : [ {
+      "autore" : "batteria",
+      "id" : 2267,
+      "titolo" : "nuovo",
+      "contenuto" : "nuovo post",
+      "like" : [ ],
+      "dislike" : [ ],
+      "commenti" : { },
+      "iterazioni" : 11
+    } ],
+    "feed" : [ {
+      "autore" : "batteria",
+      "id" : 9021,
+      "titolo" : "sono stefano",
+      "contenuto" : "COme va",
+      "like" : [ ],
+      "dislike" : [ ],
+      "commenti" : { },
+      "iterazioni" : 1
+    }, {
+      "autore" : "batteria",
+      "id" : 679,
+      "titolo" : "ciao",
+      "contenuto" : "ciao",
+      "like" : [ ],
+      "dislike" : [ ],
+      "commenti" : { },
+      "iterazioni" : 1
+    }, {
+      "autore" : "batteria",
+      "id" : 5321,
+      "titolo" : "nuovo telefono",
+      "contenuto" : "davvero molto bello",
+      "like" : [ "luca", "francesco" ],
+      "dislike" : [ ],
+      "commenti" : { },
+      "iterazioni" : 1
+    }, {
+      "autore" : "batteria",
+      "id" : 2267,
+      "titolo" : "nuovo",
+      "contenuto" : "nuovo post",
+      "like" : [ ],
+      "dislike" : [ ],
+      "commenti" : { },
+      "iterazioni" : 1
+    }, {
+      "autore" : "batteria",
+      "id" : 4239,
+      "titolo" : "ciao",
+      "contenuto" : "ciao",
+      "like" : [ ],
+      "dislike" : [ ],
+      "commenti" : { },
+      "iterazioni" : 1
+    }, {
+      "autore" : "peppe",
+      "id" : 4275,
+      "titolo" : "ciao",
+      "contenuto" : "ciao a tutti",
+      "like" : [ "batteria", "matteo" ],
+      "dislike" : [ ],
+      "commenti" : { },
+      "iterazioni" : 1
+    } ],
+    "guadagno" : 0.5192795725698778,
+    "transazioni" : [ "Il 2022-01-25 11:27 hai guadagnato: 0.032764692466683565", "Il 2022-01-25 11:28 hai guadagnato: 0.008070125495821055", "Il 2022-01-25 11:29 hai guadagnato: 0.007173444885174272", "Il 2022-01-25 10:12 hai guadagnato: 0.0764509490889283", "Il 2022-01-25 10:08 hai guadagnato: 0.07970843967022416", "Il 2022-01-25 10:13 hai guadagnato: 0.01614025099164211", "Il 2022-01-25 10:23 hai guadagnato: 0.03822547454446415", "Il 2022-01-25 10:17 hai guadagnato: 0.04587056945335699", "Il 2022-01-26 11:06 hai guadagnato: 0.006931471805599452", "Il 2022-01-25 10:07 hai guadagnato: 0.20794415416798362" ],
+    "bitcoin" : 0.0
+  },
+  "peppe" : {
+    "username" : "peppe",
+    "password" : "123ciao",
+    "tags" : [ "sport" ],
+    "following" : [ "matteo" ],
+    "followers" : [ "batteria", "matteo" ],
+    "blog" : [ {
+      "autore" : "peppe",
+      "id" : 4275,
+      "titolo" : "ciao",
+      "contenuto" : "ciao a tutti",
+      "like" : [ "batteria", "matteo" ],
+      "dislike" : [ ],
+      "commenti" : {
+        "batteria" : [ "davvero bello" ]
+      },
+      "iterazioni" : 3
+    } ],
+    "feed" : [ ],
+    "guadagno" : 1.1710020126031195,
+    "transazioni" : [ "Il 2022-01-26 11:06 hai guadagnato: 0.24260151319598083", "Il 2022-01-25 11:29 hai guadagnato: 0.30128468517731943", "Il 2022-01-26 11:06 hai guadagnato: 0.6271158142298192" ],
+    "bitcoin" : 0.0
+  },
+  "francesco" : {
+    "username" : "francesco",
+    "password" : "123ciao",
+    "tags" : [ ],
+    "following" : [ "batteria" ],
+    "followers" : [ ],
+    "blog" : [ ],
+    "feed" : [ {
+      "autore" : "batteria",
+      "id" : 5321,
+      "titolo" : "nuovo telefono",
+      "contenuto" : "davvero molto bello",
+      "like" : [ "luca", "francesco" ],
+      "dislike" : [ ],
+      "commenti" : { },
+      "iterazioni" : 1
+    }, {
+      "autore" : "batteria",
+      "id" : 679,
+      "titolo" : "ciao",
+      "contenuto" : "ciao",
+      "like" : [ ],
+      "dislike" : [ ],
+      "commenti" : { },
+      "iterazioni" : 1
+    }, {
+      "autore" : "batteria",
+      "id" : 2267,
+      "titolo" : "nuovo",
+      "contenuto" : "nuovo post",
+      "like" : [ ],
+      "dislike" : [ ],
+      "commenti" : { },
+      "iterazioni" : 1
+    }, {
+      "autore" : "peppe",
+      "id" : 4275,
+      "titolo" : "ciao",
+      "contenuto" : "ciao a tutti",
+      "like" : [ "batteria", "matteo" ],
+      "dislike" : [ ],
+      "commenti" : { },
+      "iterazioni" : 1
+    }, {
+      "autore" : "batteria",
+      "id" : 9021,
+      "titolo" : "sono stefano",
+      "contenuto" : "COme va",
+      "like" : [ ],
+      "dislike" : [ ],
+      "commenti" : { },
+      "iterazioni" : 1
+    }, {
+      "autore" : "batteria",
+      "id" : 4239,
+      "titolo" : "ciao",
+      "contenuto" : "ciao",
+      "like" : [ ],
+      "dislike" : [ ],
+      "commenti" : { },
+      "iterazioni" : 1
+    } ],
+    "guadagno" : 0.5989880122401019,
+    "transazioni" : [ "Il 2022-01-25 11:27 hai guadagnato: 0.032764692466683565", "Il 2022-01-25 11:28 hai guadagnato: 0.008070125495821055", "Il 2022-01-25 11:29 hai guadagnato: 0.007173444885174272", "Il 2022-01-25 10:12 hai guadagnato: 0.0764509490889283", "Il 2022-01-25 10:08 hai guadagnato: 0.07970843967022416", "Il 2022-01-25 10:13 hai guadagnato: 0.01614025099164211", "Il 2022-01-25 10:23 hai guadagnato: 0.03822547454446415", "Il 2022-01-25 10:17 hai guadagnato: 0.04587056945335699", "Il 2022-01-26 11:06 hai guadagnato: 0.006931471805599452", "Il 2022-01-25 10:07 hai guadagnato: 0.20794415416798362" ],
+    "bitcoin" : 0.0
+  }
+}
